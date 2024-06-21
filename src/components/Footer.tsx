@@ -5,20 +5,12 @@ export default function Footer() {
       Made with {`<3`} by{" "}
       <a
         className="text-pink-200"
-        href="https://github.com/asrvd"
+        href="https://github.com/abdul-kaiyum1"
         target={"_blank"}
         rel="noreferrer"
       >
-        Ashish
-      </a>
-      {" // "}
-      <a
-        className="text-pink-200"
-        href="https://github.com/asrvd/lyrist"
-        target={"_blank"}
-        rel="noreferrer"
-      >
-        Source
+        Abdul Kaiyum
+  
       </a>
       <a
         rel="noopener noreferrer"
